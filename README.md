@@ -17,7 +17,7 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your machine
 ### Dependencies
 Express
 Nodemon
-bady-parser
+body-parser
 
 ### Author
 Aditya Ranjan
