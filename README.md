@@ -14,12 +14,12 @@ A straightforward ToDo app built with Node.js and Express.js. Manage your tasks 
 
 Ensure you have Node.js and npm (Node Package Manager) installed on your machine.
 
-###Dependencies
+### Dependencies
 Express
 Nodemon
-bady-parserr
+bady-parser
 
-###Author
+### Author
 Aditya Ranjan
 Kaushik Shaw
 Dev Goyal
