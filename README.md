@@ -14,10 +14,11 @@ A straightforward ToDo app built with Node.js and Express.js. Manage your tasks 
 
 Ensure you have Node.js and npm (Node Package Manager) installed on your machine.
 
-### Dependencies
-Express
-Nodemon
-body-parser
+### Dependencies- Install the following...
+- Node
+- Express
+- Nodemon
+- body-parser
 
 ### Author
 Aditya Ranjan,
