@@ -22,5 +22,6 @@ body-parser
 ### Author
 Aditya Ranjan,
 Kaushik Shaw,
-Rishi Ranjan
+Rishi Ranjan,
+Dev Goyal
 
