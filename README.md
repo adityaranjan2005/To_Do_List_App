@@ -20,6 +20,6 @@ Nodemon
 body-parser
 
 ### Author
-Aditya Ranjan
+Aditya Ranjan,
 Kaushik Shaw
 
